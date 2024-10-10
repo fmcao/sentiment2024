@@ -1,0 +1,13 @@
+glob
+re
+pip3-autoremove
+unsloth
+torch
+pandas
+sklearn
+matplotlib
+seaborn
+datasets
+transformers
+trl
+
